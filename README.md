@@ -47,9 +47,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-trootech&hide_progress=true&theme=highcontrast)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohit-trootech&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohit-trootech&theme=highcontrast)
 
-[![Mohit Prajapat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohit-trootech&theme=high-contrast&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Mohit Prajapat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohit-trootech&theme=high-contrast&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 
 ## License
