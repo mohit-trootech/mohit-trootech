@@ -51,6 +51,25 @@
 
 ![Mohit Prajapat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohit-trootech&theme=high-contrast&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
+## Documentation Learning
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Django-Documentation&theme=highcontrast)
+
+## Django Projects
+
+![Mohit Prajapat's Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Quick-Polls&theme=highcontrast)
+
+## Python Projects
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=OTP-Verification&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=PDF-Generator&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Quick-Ticket&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Weather-Data-Scraping&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Bank-Management-System&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Music-Lyrics&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Email-OTP-Validation&theme=highcontrast)
+
+## Bootstrap Projects
+
+## HTML CSS Projects
 
 ## License
 
