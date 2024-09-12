@@ -1,4 +1,5 @@
-<!---![logo](https://github.com/mohitprajapat2001/mohitprajapat2001/blob/main/Banner%20Youtube.jpg)--->
+![logo](https://github.com/mohitprajapat2001/mohitprajapat2001/blob/main/Banner%20Youtube.jpg)
+
 <h1 align="center">Hi 👋, I'm Mohit Prajapat</h1>
 <h3 align="center">Passionate Python/Django Developer</h3>
 <img src="https://assets-v2.lottiefiles.com/a/08e519b4-7df9-11ee-82d8-07ca5cee586e/CGlkmmjtqA.gif" alt="Reference Image"
@@ -6,8 +7,10 @@
 
 
 - 🌱 I’m currently working as Jr Software Developer
+
 <a href="https://www.trootech.com"><img src="https://github.com/mohit-trootech/mohit-trootech/blob/main/109086544.png" alt="Reference Image"
-     height='64' align="center">
+     height='64' align="center"></a>
+
 - 📝 I regularly Write Article on Medium & Linkedin, So make sure to Follow me There.
 
 - 💬 Ask me about **Django, Python & JavaScript**
@@ -53,14 +56,21 @@
 
 ## Documentation Learning
 ![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Django-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Bootstrap-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Git-GitHub-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=HTML-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=CSS-Documentation&theme=highcontrast)
 
 ## Django Projects
+![Mohit Prajapat's Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=quick-media&theme=highcontrast)
+![Mohit Prajapat's Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Django-Crud&theme=highcontrast)
 
 ![Mohit Prajapat's Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Quick-Polls&theme=highcontrast)
 
 ## Python Projects
 ![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=OTP-Verification&theme=highcontrast)
 ![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=PDF-Generator&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Flipkart-Data-Scraping&theme=highcontrast)
 ![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Quick-Ticket&theme=highcontrast)
 ![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Weather-Data-Scraping&theme=highcontrast)
 ![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Bank-Management-System&theme=highcontrast)
@@ -68,12 +78,15 @@
 ![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Email-OTP-Validation&theme=highcontrast)
 
 ## Bootstrap Projects
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=Bootstrap-Projects&theme=highcontrast)
 
 ## HTML CSS Projects
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohit-trootech&repo=HTML-CSS-JS-Exercise&theme=highcontrast)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+
 <!---
 mohit-trootech/mohit-trootech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
