@@ -1,4 +1,4 @@
-![logo](https://github.com/mohitprajapat2001/mohitprajapat2001/blob/main/Banner%20Youtube.jpg)
+<!-- ![logo](https://github.com/mohitprajapat2001/mohitprajapat2001/blob/main/Banner%20Youtube.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Mohit Prajapat</h1>
 <h3 align="center">Passionate Python/Django Developer</h3>
